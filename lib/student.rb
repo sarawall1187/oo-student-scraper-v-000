@@ -15,8 +15,7 @@ class Student
     students_array.each do |student|
       # binding.pry
       student.each do |k,v|
-        # student[:name] == name
-        # student[:location] == location
+       
       end 
     end
   end
